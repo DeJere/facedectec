@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">googleml-kit</string>
+    <string name="app_title">Google ML Kit</string>
+    <string name="gallery_button">Galería</string>
+    <string name="camera_button">Cámara</string>
+    <string name="results_text">Resultados:</string>
+    <string name="ocr_button">OCR</string>
+    <string name="face_button">Rostros</string>
+</resources>
